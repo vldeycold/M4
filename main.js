@@ -3,11 +3,11 @@ const shareBtn = document.getElementById("shareBtn");
 const shareLinks = document.getElementById("shareLinks");
 
 shareBtn.onclick = () => {
-    window.open("https://s.shopee.co.id/2B9BanVv16", "_blank")
+    window.open("https://s.shopee.co.id/10wZ6V5qde", "_blank")
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://whatsapp.com/channel/0029VbCCA6g1NCrOEI15qK07");
+    window.open("https://whatsapp.com/channel/0029VbCKzuEFXUugctLPPy1D");
 }
 
 function openFacebookPage() {
@@ -32,7 +32,7 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://s.shopee.co.id/7fTddc6NLI", "_blank");
+    window.open("https://s.shopee.co.id/8zyp8hZrSG", "_blank");
 });
 
 
